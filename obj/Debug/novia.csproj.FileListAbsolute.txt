@@ -1,0 +1,10 @@
+C:\Users\loros\OneDrive - misena.edu.co\novia\bin\Debug\novia.exe.config
+C:\Users\loros\OneDrive - misena.edu.co\novia\bin\Debug\novia.exe
+C:\Users\loros\OneDrive - misena.edu.co\novia\bin\Debug\novia.pdb
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.csproj.AssemblyReference.cache
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.Form1.resources
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.Properties.Resources.resources
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.csproj.GenerateResource.cache
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.csproj.CoreCompileInputs.cache
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.exe
+C:\Users\loros\OneDrive - misena.edu.co\novia\obj\Debug\novia.pdb
